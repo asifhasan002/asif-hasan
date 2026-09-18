@@ -15,12 +15,6 @@ document.querySelectorAll('.nav a').forEach((link) => {
 
 const apps = [
   {
-    icon: 'slideshow-maker', name: 'Slideshow Maker', category: 'Video · iOS',
-    desc: 'Slideshow creation workflow using photos and videos, with media composition and export.',
-    tags: ['Photos', 'Video', 'Export'],
-    stores: [{ label: 'App Store', href: 'https://apps.apple.com/us/app/slideshow-maker-video-music-fx/id6752115963' }],
-  },
-  {
     icon: 'ai-photo-editor', name: 'AI Photo Editor', category: 'AI · iOS',
     desc: 'AI-powered photo editing application focused on image processing and a responsive mobile workflow.',
     tags: ['Core Image', 'CoreML', 'Vision'],
